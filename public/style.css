@@ -46,6 +46,8 @@ body {
   margin-left: 33%;
   margin-right: 33%;
   width: 33%;
+  margin-top: 40px;
+  border: none;
 }
 
 .disIn{
